@@ -1,0 +1,3 @@
+--Haskell solution
+--split every 13 values
+--map over list and product each other with a foldl (*)
