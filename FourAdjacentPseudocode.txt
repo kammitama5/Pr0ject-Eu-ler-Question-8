@@ -17,3 +17,7 @@
 //is more than the previous product\
 //replace the old product with new product
 //keep going until you run out of input file-ness :)
+
+--Haskell-esque or OCaml-esque solution
+--split into values of 13 at a time in an array
+--foldl each one, finding product of values in each array
