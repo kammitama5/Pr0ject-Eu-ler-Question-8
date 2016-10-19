@@ -9,3 +9,8 @@ I think...unless columns and word-searchiness is allowed (eg diagonals) or snake
 //is more than the previous product\
 //replace the old product with new product
 //keep going until you run out of input file-ness :)
+
+--Possible Haskell-esque/functionally solution
+--Split every thirteen values (will give an array for each one)
+--Map over each array separately with foldl(*) and get product
+
