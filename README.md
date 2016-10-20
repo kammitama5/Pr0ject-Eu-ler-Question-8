@@ -12,5 +12,5 @@ I think...unless columns and word-searchiness is allowed (eg diagonals) or snake
 
 --Possible Haskell-esque/functionally solution
 --Split every thirteen values (will give an array for each one)
---Map over each array separately with foldl(*) and get product
+--Map over each array separately with foldl1(*) and get product
 
