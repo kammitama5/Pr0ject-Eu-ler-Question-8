@@ -14,3 +14,7 @@ I think...unless columns and word-searchiness is allowed (eg diagonals) or snake
 --Split every thirteen values (will give an array for each one)
 --Map over each array separately with foldl1(*) and get product
 
+
+?use partition, take items and fold * => Clojure or Haskell
+
+
